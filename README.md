@@ -9,7 +9,7 @@
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9G2D7X963BSM)
 
 - <h2><b>Python 🐍</b></h2>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
 
 
