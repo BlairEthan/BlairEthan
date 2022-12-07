@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/BlairEthan">Programmer</a>,<a href="(https://www.linkedin.com/in/blair-knowles-6798b8134/)">IT Specialist </a></h>
 
-<!--
-**BlairEthan/BlairEthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨🏾‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <h2><b> 📃 Certificates</b></h2>
+  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9G2D7X963BSM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <h2><b>Python 🐍</b></h2>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+
+
+
+
+
