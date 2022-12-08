@@ -10,7 +10,7 @@
 
 - <h2><b>Python 🐍</b></h2>
   - <a href = "https://github.com/BlairEthan/ChooseYourOwnAdventure" > Choose Your Own Adventure </a>
-
+  <br> - <a href = "https://github.com/BlairEthan/Sudoku-Game-Backtracking-Algorithm-" > Sudoku Algorithm </a> </br>
 
 
 
