@@ -6,10 +6,10 @@
 -[Hello World]
 
 - <h2><b> 📃 Certificates</b></h2>
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9G2D7X963BSM)
+  - <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/9G2D7X963BSM" > Google IT Professional </a>
 
 - <h2><b>Python 🐍</b></h2>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - <a href = "https://github.com/BlairEthan/ChooseYourOwnAdventure" > Choose Your Own Adventure </a>
 
 
 
