@@ -2,6 +2,7 @@
 
 <h2>👨🏾‍💻 Software Development/ API Projects:</h2>
 - <a href = "https://github.com/BlairEthan/TicketingSystem/blob/main/README.md">Ticketing System</a>
+- <a href = "https://github.com/BlairEthan/Weather_API"> Weather API</a>
 
 
 - <h2><b> 📃 Certificates</b></h2>
