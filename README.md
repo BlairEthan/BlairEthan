@@ -1,4 +1,4 @@
-<h1>Hi, I'm Blair !<br/><a href="https://github.com/BlairEthan">Entry Lvl - Programmer </a>,<a href="https://www.linkedin.com/in/blair-knowles-6798b8134/"> IT Specialist </a></h1>
+<h1>Hi, I'm Blair !<br/><a href="https://github.com/BlairEthan">Entry Lvl - Programmer </a>,<a href="https://www.linkedin.com/in/blair-knowles-6798b8134/"> IT Security Specialist </a></h1>
 
 <h2>👨🏾‍💻 Software Development/ API Projects:</h2>
 - <a href = "https://github.com/BlairEthan/TicketingSystem/blob/main/README.md">Ticketing System</a>
